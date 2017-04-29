@@ -1,1 +1,1 @@
-# 164 Solution of he Kaggle competition - Two Sigma Connect: Rental Listing Inquiries
+# 164 Solution of Kaggle competition - Two Sigma Connect: Rental Listing Inquiries
