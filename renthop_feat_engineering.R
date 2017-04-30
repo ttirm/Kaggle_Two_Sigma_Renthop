@@ -19,7 +19,7 @@ library(syuzhet)
 
 source("./utils.R")
 
-setwd("C:/Users/tiago_000/Documents/GitHub/Kaggle_2sigma_rent")
+setwd("C:/Kaggle_2sigma_rent")
 load("./files/data_cleaned.Rda")
 
 getmode <- function(v) {
