@@ -5,7 +5,7 @@ library(ggplot2)
 library(ggmap)
 
 
-setwd("C:/Users/tiago_000/Documents/GitHub/Kaggle_2sigma_rent")
+setwd("C:/Kaggle_2sigma_rent")
 
 train <- fromJSON("./data/train.json") %>% bind_rows 
 test <- fromJSON("./data/test.json") %>% bind_rows 
