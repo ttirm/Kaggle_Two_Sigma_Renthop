@@ -14,7 +14,7 @@ From here it is possible to run
 - renthop_single_model.R
 
 which applies a single Xgboost model to some of the most important features.
-To get the score achieved in the competition (Private Leaderborad: 0.50926) it's necessary to run the following scripts, which generate 11 base models and stack them in a level 1 Xgboost. The level 2 is just a mean of level 1 predictions.
+To get the score achieved in the competition (Private Leaderboard: 0.50926) it's necessary to run the following scripts, which generate 11 base models and stack them in a level 1 Xgboost. The level 2 is just a mean of level 1 predictions.
 
 - stack_generate_models.R
 - stack_model_level_1.R
